@@ -20,9 +20,10 @@ I am an IT professional dedicated to building, securing, and maintaining digital
 
 ### 📂 Featured Projects
 
-* **[My Own Website for Introducing MySelf](https://khalidsaverola.github.io/WD-Final/)** 
-* **[Creating Different Types of Header for Web](https://khalidsaverola.github.io/WD-seatwork3/index.html)** 
-* **[Feature Display website](https://khalidsaverola.github.io/WD-seatwork4/)** 
+* **[Personal Website](https://khalidsaverola.github.io/WD-Final/)** 
+* **[Different Types of Header for Website](https://khalidsaverola.github.io/WD-seatwork3/index.html)** 
+* **[Feature Display website](https://khalidsaverola.github.io/WD-seatwork4/)**
+* **[Bootstrap Web](https://khalidsaverola.github.io/WD-Saverola-Bootstrap-Web/)** 
 
 ---
 
