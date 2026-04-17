@@ -20,12 +20,12 @@ I am an IT professional dedicated to building, securing, and maintaining digital
 
 ### 📂 Featured Projects
 
-* **[TrueTaste Checkout Flow](https://github.com/KhalidSaverola/TrueTaste)** - Full-stack transaction system using PHP sessions.
-* **[Network Defense Lab]** - (If you have one) Documentation of network hardening and security protocols.
-* **[Systems Programming]** - Low-level Assembly (TASM) projects for hardware-level logic.
+* **[My Own Website for Introducing MySelf](https://khalidsaverola.github.io/WD-Final/)** 
+* **[Creating Different Types of Header for Web](https://khalidsaverola.github.io/WD-seatwork3/index.html)** 
+* **[Feature Display website](https://khalidsaverola.github.io/WD-seatwork4/)** 
 
 ---
 
 ### 🌐 Professional Links
-- **LinkedIn:** [Insert your Profile Link Here]
-- **Contact:** official.khlders@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/khalidsaverola/)
+- **Contact:** official.khlders@gmail.com 09454994737
